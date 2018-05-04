@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ServerSIG</string>
+    <string name="action_settings">Download Windows App</string>
+    <string name="help_settings">Help</string>
+    <string name="end">92222205555558</string>
+    <string name="disconected">Disconected</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="stop">STOP</string>
+    <string name="title_activity_send_email">GISp</string>
+    <string name="banner_home_footer">ca-app-pub-3940256099942544~3347511713</string>
+
+
+</resources>
